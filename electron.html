@@ -1,0 +1,28 @@
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expense Tracker Desktop</title>
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script>
+        window.onload = () => {
+            document.getElementById('quitApp').addEventListener('click', () => {
+                window.close();
+            });
+        };
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>Expense Tracker Desktop App</h1>
+        <p>Manage your expenses directly from your desktop!</p>
+        <div>
+            <a href="index.php" class="btn btn-primary">Open Web Version</a>
+            <button id="quitApp" class="btn btn-danger">Quit App</button>
+        </div>
+    </div>
+</body>
+</html>

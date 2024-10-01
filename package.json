@@ -1,0 +1,15 @@
+{
+    "name": "expense-tracker",
+    "version": "1.0.0",
+    "description": "Expense Tracker Desktop Application",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "devDependencies": {
+      "electron": "^26.0.0"
+    }
+  }
+  

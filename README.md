@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # My First Desktop Assistant
@@ -123,3 +124,36 @@ Feel free to customize the sections, especially the **Screenshots**, **Usage**, 
    ```
 
 Author: Ivo Pereira
+=======
+ 
+# Expense Tracker Application
+
+This is a desktop expense tracking application built using HTML, CSS, PHP, MySQL, and Electron.js. It supports role-based access control for Admins, Managers, and Staff. The application can be accessed via web browsers and as a desktop widget.
+
+## Features
+- User Authentication (Admin, Manager, Staff)
+- Add, Edit, and Delete Expenses
+- Role-Based Dashboards
+- Graphical Reports (Line Graphs, Pie Charts)
+- Export Expenses to PDF or Excel
+- Dark Mode Support
+
+## Tech Stack
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript
+- **Backend**: PHP, MySQL
+- **Electron.js**: For desktop version
+- **Charts**: Chart.js for graphical data representation
+
+## Setup Instructions
+
+### Prerequisites
+- Apache Server (e.g., XAMPP)
+- MySQL
+- Node.js (for Electron)
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/expensetracker.git
+   cd expensetracker
+>>>>>>> 2f98c51 (Initial commit)

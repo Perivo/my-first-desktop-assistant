@@ -1,0 +1,29 @@
+ 
+# Logs
+logs/
+*.log
+
+# Runtime data
+tmp/
+*.lock
+
+# Composer
+/vendor/
+
+# Environment settings
+.env
+
+# Apache config files
+.htaccess
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Node modules for Electron
+node_modules/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
