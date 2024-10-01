@@ -1,4 +1,3 @@
-Here’s a detailed README.md template for your **`my-first-desktop-assistant`** project, suitable for your GitHub repository:
 
 ```markdown
 # My First Desktop Assistant
