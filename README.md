@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 
 # My First Desktop Assistant
@@ -154,6 +154,6 @@ This is a desktop expense tracking application built using HTML, CSS, PHP, MySQL
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/expensetracker.git
+   git clone https://github.com/Perivo/expensetracker.git
    cd expensetracker
 >>>>>>> 2f98c51 (Initial commit)
